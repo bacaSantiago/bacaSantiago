@@ -1,4 +1,7 @@
-![MasterHead](https://www.xtrafondos.com/wallpapers/cometas-y-planetas-en-paisaje-digital-urbano-en-la-noche-4419.jpg)
+<div style="overflow: hidden;">
+  <img alt="MasterHead" src="https://www.xtrafondos.com/wallpapers/cometas-y-planetas-en-paisaje-digital-urbano-en-la-noche-4419.jpg" style="width: 1000px; height: 300px; object-fit: fill;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Santiago Baca</h1>
 <h3 align="center">A passionate B.S. in Data Science and Mathematics student at Tecnológico de Monterrey, 20 years old, programming lover, interested in cryptosecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/N-fJ0Azh_ykAAAAC/cat-computer.gif!">
