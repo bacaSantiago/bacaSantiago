@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Santiago Baca</h1>
 <h3 align="center">A passionate B.S. in Data Science and Mathematics student at Tecnológico de Monterrey, 20 years old, programming lover, interested in cybersecurity</h3>
-<img align="right" alt="Coding" width=330 src="https://thumbs.gfycat.com/ChubbySelfreliantGarpike.webp">
+<img align="right" alt="Coding" width=330 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ0dGs3bnRjemdxbmFweG4waXBhNjNndWZmenBhdmwyZ2lpNTE5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacasantiago&label=Profile%20views&color=0e75b6&style=flat" alt="bacasantiago" /> </p>
 
