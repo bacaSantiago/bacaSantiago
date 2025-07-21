@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bacasantiago&show_icons=true&locale=en&theme=radical&bg_color=00000000" alt="bacasantiago" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bacasantiago&theme=neon&bg_color=00000000" alt="bacasantiago" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bacasantiago&theme=gotham&bg_color=00000000" alt="bacasantiago" /></p>
