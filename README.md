@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alejandro-santiago-baca-eyssautier-7902aa142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-santiago-baca-eyssautier-7902aa142" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santiago-baca-eyssautier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-santiago-baca-eyssautier-7902aa142" height="30" width="40" /></a>
 <a href="https://instagram.com/baca_santiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baca_santiago" height="30" width="40" /></a>
 </p>
 
