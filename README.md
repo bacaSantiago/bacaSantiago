@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacasantiago&label=Profile%20views&color=0e75b6&style=flat" alt="bacasantiago" /> </p>
 
-- 🌱 I’m currently learning **Applied Data Science with Python**
+- 🌱 I’m currently learning **IBM AI Engineering**
 
-- 💬 Ask me about **Pillow, tesseract, kraken, opencv, numpy**
+- 💬 Ask me about **data science: statistics, machine learning, deep learning, optimization, cryptography and cybersecurity**
 
 - 📫 How to reach me **asantiagobaca@gmail.com**
 
